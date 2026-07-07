@@ -3,7 +3,7 @@ title: FAQ
 categories: []
 description: "Frequently asked questions about Yoda."
 ---
-### Wat is Yoda?
+### What is Yoda?
 
 YODA is an application for institutions that supports RDM throughout the entire research cycle: from the safe and easy storage and sharing of data during the research process, to the sharing of data within research groups and projects and ultimately to research data archiving and publication
 
