@@ -1,5 +1,43 @@
 [
   {
+    "listing": "/guides.html",
+    "items": [
+      "/guides/publish-and-share.html",
+      "/guides/comply-with-gdpr.html",
+      "/guides/discover-and-initiate.html",
+      "/guides/collect-and-store.html",
+      "/guides/process-and-analyse.html",
+      "/guides/document-and-preserve.html",
+      "/guides/onboarding.html",
+      "/guides/publishing-fair-software.html",
+      "/guides/plan-and-design.html",
+      "/guides/policies-supporting-vision-open-science.html",
+      "/guides/data-lifecycle.html",
+      "/guides/offboarding.html"
+    ]
+  },
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/ada/index.html",
+      "/tools/dataversenl/index.html",
+      "/tools/dmponline/index.html",
+      "/tools/ithenticate/index.html",
+      "/tools/nebula/index.html",
+      "/tools/osf/index.html",
+      "/tools/pure/index.html",
+      "/tools/qualtrics/index.html",
+      "/tools/researchcloud/index.html",
+      "/tools/researchdrive/index.html",
+      "/tools/scicloud/index.html",
+      "/tools/scistor/index.html",
+      "/tools/scisure/index.html",
+      "/tools/snellius/index.html",
+      "/tools/vucomputehub/index.html",
+      "/tools/yoda/index.html"
+    ]
+  },
+  {
     "listing": "/topics.html",
     "items": [
       "/topics/academic-integrity.html",
@@ -42,44 +80,6 @@
       "/topics/software-publishing.html",
       "/topics/selecting-data.html",
       "/topics/transcription.html"
-    ]
-  },
-  {
-    "listing": "/tools.html",
-    "items": [
-      "/tools/ada/index.html",
-      "/tools/dataversenl/index.html",
-      "/tools/dmponline/index.html",
-      "/tools/ithenticate/index.html",
-      "/tools/nebula/index.html",
-      "/tools/osf/index.html",
-      "/tools/pure/index.html",
-      "/tools/qualtrics/index.html",
-      "/tools/researchcloud/index.html",
-      "/tools/researchdrive/index.html",
-      "/tools/scicloud/index.html",
-      "/tools/scistor/index.html",
-      "/tools/scisure/index.html",
-      "/tools/snellius/index.html",
-      "/tools/vucomputehub/index.html",
-      "/tools/yoda/index.html"
-    ]
-  },
-  {
-    "listing": "/guides.html",
-    "items": [
-      "/guides/publish-and-share.html",
-      "/guides/comply-with-gdpr.html",
-      "/guides/discover-and-initiate.html",
-      "/guides/collect-and-store.html",
-      "/guides/process-and-analyse.html",
-      "/guides/document-and-preserve.html",
-      "/guides/onboarding.html",
-      "/guides/publishing-fair-software.html",
-      "/guides/plan-and-design.html",
-      "/guides/policies-supporting-vision-open-science.html",
-      "/guides/data-lifecycle.html",
-      "/guides/offboarding.html"
     ]
   },
   {
